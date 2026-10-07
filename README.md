@@ -64,6 +64,63 @@ I'm expanding my work into advanced API integrations, reusable n8n workflow temp
 
 ---
 
+## 🛠️ Technical Stack
+
+**Automation & AI**
+- n8n
+- AI Agents
+- Workflow Automation
+- Prompt Engineering
+- Generative AI
+- API Integrations
+
+**Business Systems**
+- Google Sheets
+- Google Workspace
+- Gmail Automation
+- Google Calendar
+- CRM Workflows
+- Lead Management
+- Recruitment Automation
+
+**AI & Digital Production**
+- ChatGPT
+- Claude
+- Gemini
+- AI Video Production
+- Voice & Localization Workflows
+- AI Content Generation
+
+---
+
+## 🚀 What I Can Build
+
+I help businesses transform repetitive manual processes into structured automated systems.
+
+Examples include:
+
+- AI-powered lead capture and qualification
+- Automated CRM workflows
+- Recruitment and candidate screening systems
+- Customer intake and order automation
+- Automated email notifications and follow-ups
+- Google Sheets database automation
+- AI agents connected to business workflows
+- API-based business process automation
+- AI-assisted multilingual digital production
+
+---
+
+## 🤝 Open to Opportunities
+
+I'm interested in remote opportunities and collaborations involving:
+
+**AI Automation • n8n • AI Agents • Workflow Automation • AI Operations • CRM Automation • Business Process Automation • AI Evaluation**
+
+📁 [View My AI Automation Portfolio](https://github.com/okikisteve/ai-automation-portfolio)
+
+---
+
 ### Let's Build Smarter Systems
 
 
