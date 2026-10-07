@@ -43,7 +43,7 @@ Built an AI-assisted recruitment workflow for candidate intake, CV collection, c
 ### 👔 [Kachi & Reuben — Fashion Sales & Order Automation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/kachi-reuben.md)
 Designed a sales and order-management workflow for a men's fashion brand, covering customer information, product selection, order details and automated business processing.
 
-### 🎙️ [AI Digital Production & Localization](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/ai-digital-production-localization.md)
+### 🎙️ [AI Digital Production & Localization](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/ai-digital-production.md)
 Worked with AI-assisted video, voice and localization workflows involving multilingual dubbing, speaker management, synchronization and digital production.
 
 ➡️ **[View My Full AI Automation Portfolio](https://github.com/okikisteve/ai-automation-portfolio)**
