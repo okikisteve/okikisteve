@@ -37,7 +37,7 @@ My work combines **n8n, AI agents, APIs, Google Workspace, CRM workflows, automa
 ### 🏢 [Iyere Projects — Lead & CRM Automation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/iyere-projects.md)
 Designed an automated lead-management workflow connecting customer intake, n8n, Google Sheets, email communication and appointment scheduling.
 
-### 🤖 [Winxtrack — AI Recruitment Agent](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/winxtrack.md)
+### 🤖 [Winxtrack — AI Recruitment Agent](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/winxtrack-recruitment.md)
 Built an AI-assisted recruitment workflow for candidate intake, CV collection, candidate qualification, application tracking and automated communication.
 
 ### 👔 [Kachi & Reuben — Fashion Sales & Order Automation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/kachi-reuben.md)
