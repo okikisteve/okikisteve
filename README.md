@@ -18,6 +18,10 @@ I build and document business automation workflows that help organizations captu
 
 **📁 [Explore my complete automation portfolio](https://github.com/okikisteve/ai-automation-portfolio)**
 
+### 🔎 Reproducible Technical Example
+
+**[Download the sanitized n8n lead-intake demo](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/real-estate-lead-intake)** — includes an inactive authenticated webhook workflow, JavaScript validation and qualification logic, and **nine unit-test cases**. The JavaScript tests passed in an isolated test harness; this is **not** a claim of live n8n deployment.
+
 ## 🛠 Technical toolkit
 
 - **Workflow automation:** n8n Cloud, trigger design, webhooks, conditional routing, form intake, JSON mapping
