@@ -1,127 +1,47 @@
 # Hi, I'm Steven Iyere 👋
+### AI Automation & Workflow Specialist | n8n · Salesforce Flow · AI-Assisted Operations
 
-### AI Automation & Workflow Specialist
+I build and document business automation workflows that help organizations capture enquiries, organize CRM data, prioritize leads and reduce repetitive work. My portfolio combines **n8n, webhooks, APIs, Google Workspace, Salesforce Flow, AI-agent experimentation and structured workflow testing**.
 
-I design practical AI-powered automation systems that help businesses reduce manual work, improve customer experiences, manage leads, streamline recruitment, and connect everyday business tools.
+📍 Nigeria · 🌍 Open to remote, contract and project-based opportunities
 
-My work combines **n8n, AI agents, APIs, Google Workspace, CRM workflows, automation logic, and generative AI** to turn repetitive business processes into efficient automated systems.
+## 🚀 Selected projects
 
----
+| Project | What it does | Current evidence |
+| --- | --- | --- |
+| **[Real Estate Lead Intake & Inspection Automation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/real-estate-lead-inspection-automation.md)** | Five-service enquiry intake → validation/qualification → Google Sheets CRM; appointment-booking design | **Lead intake tested** with synthetic data; booking not live |
+| **[Salesforce Automated Lead Qualification — V2](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/salesforce-lead-qualification.md)** | Record-triggered Flow classifies leads by estimated project budget | Activated in Developer Edition; three sample budget categories verified |
+| **[Iyere Projects — Lead & CRM Automation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/iyere-projects.md)** | Capture customer enquiries and coordinate follow-up | Workflow documentation and selected integration tests |
+| **[Winxtrack — AI-Assisted Recruitment Workflow](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/winxtrack-recruitment.md)** | Candidate intake and structured recruitment tracking | Architecture and workflow documentation |
+| **[Kachi & Reuben — Order Automation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/kachi-reuben.md)** | Capture customer order details and organize sales records | Workflow design and documentation |
+| **[AI Digital Production & Localization](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/ai-digital-production.md)** | Voice and dubbing synchronization, quality review, multilingual media workflows | Documented production experience |
 
-## 🤖 What I Build
+**📁 [Explore my complete automation portfolio](https://github.com/okikisteve/ai-automation-portfolio)**
 
-- AI Agents & Intelligent Workflows
-- n8n Business Process Automation
-- Lead Capture & Qualification Systems
-- Recruitment & Candidate Screening Automation
-- CRM & Customer Follow-up Workflows
-- E-commerce & Order Management Automation
-- API & Webhook Integrations
-- Google Workspace Automation
-- AI-assisted Content & Digital Production Workflows
+## 🛠 Technical toolkit
 
----
+- **Workflow automation:** n8n Cloud, trigger design, webhooks, conditional routing, form intake, JSON mapping
+- **CRM and business systems:** Salesforce Flow Builder, Google Sheets, Gmail, Google Calendar
+- **AI and content:** AI-agent workflows, prompting, human quality assurance, AI-assisted multimedia and localization
+- **Engineering practices:** process mapping, validation, end-to-end test cases, debugging, technical documentation
+- **Building next:** stronger monitoring, retry policies, idempotency, secure integration patterns and Python fundamentals
 
-## 🛠️ Technologies & Tools
+## 🔁 How I approach an automation project
 
-**Automation:** n8n, Webhooks, APIs  
-**AI:** ChatGPT, Claude, Gemini, AI Agents, Prompt Engineering  
-**Business Systems:** Google Sheets, Gmail, Google Calendar, CRM workflows  
-**Creative AI:** AI Video, AI Image Generation, Voice & Localization Workflows  
-**Development:** JavaScript, JSON, GitHub, API Integration
+1. Map the business process, stakeholders and approval rules.
+2. Define structured inputs, outputs and ownership of data.
+3. Build triggers, logic and integrations.
+4. Run controlled tests, including error and boundary conditions.
+5. Record verified outcomes separately from features still in development.
 
----
+> **Portfolio transparency:** A successfully tested component is not necessarily a production deployment. I label planned integrations, templates and tests accordingly. Public case studies omit client credentials, private customer records and confidential configuration.
 
-## 🚀 Featured Projects
+## 🤝 Let's connect
 
-### 🏢 [Iyere Projects — Lead & CRM Automation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/iyere-projects.md)
-Designed an automated lead-management workflow connecting customer intake, n8n, Google Sheets, email communication and appointment scheduling.
+I'm interested in **n8n automation, AI operations, CRM automation, workflow development, AI evaluation and technical operations** opportunities.
 
-### 🤖 [Winxtrack — AI Recruitment Agent](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/winxtrack-recruitment.md)
-Built an AI-assisted recruitment workflow for candidate intake, CV collection, candidate qualification, application tracking and automated communication.
+- **GitHub:** [@okikisteve](https://github.com/okikisteve)
+- **LinkedIn:** [Steven Iyere](https://www.linkedin.com/in/emmanuel-okikie-i-8523743b6)
+- **Portfolio:** [AI Automation & Workflow Case Studies](https://github.com/okikisteve/ai-automation-portfolio)
 
-### 👔 [Kachi & Reuben — Fashion Sales & Order Automation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/kachi-reuben.md)
-Designed a sales and order-management workflow for a men's fashion brand, covering customer information, product selection, order details and automated business processing.
-
-### 🎙️ [AI Digital Production & Localization](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/ai-digital-production.md)
-Worked with AI-assisted video, voice and localization workflows involving multilingual dubbing, speaker management, synchronization and digital production.
-
-➡️ **[View My Full AI Automation Portfolio](https://github.com/okikisteve/ai-automation-portfolio)**
-
----
-
-## 💼 What I'm Interested In
-
-I'm open to opportunities and collaborations involving:
-
-**AI Automation • AI Agents • Workflow Automation • AI Operations • Technical Research • AI Evaluation • CRM Automation • Business Process Automation**
-
----
-
-## 📈 Currently Building
-
-I'm expanding my work into advanced API integrations, reusable n8n workflow templates, AI-agent systems and end-to-end business automation solutions.
-
----
-
-## 🛠️ Technical Stack
-
-**Automation & AI**
-- n8n
-- AI Agents
-- Workflow Automation
-- Prompt Engineering
-- Generative AI
-- API Integrations
-
-**Business Systems**
-- Google Sheets
-- Google Workspace
-- Gmail Automation
-- Google Calendar
-- CRM Workflows
-- Lead Management
-- Recruitment Automation
-
-**AI & Digital Production**
-- ChatGPT
-- Claude
-- Gemini
-- AI Video Production
-- Voice & Localization Workflows
-- AI Content Generation
-
----
-
-## 🚀 What I Can Build
-
-I help businesses transform repetitive manual processes into structured automated systems.
-
-Examples include:
-
-- AI-powered lead capture and qualification
-- Automated CRM workflows
-- Recruitment and candidate screening systems
-- Customer intake and order automation
-- Automated email notifications and follow-ups
-- Google Sheets database automation
-- AI agents connected to business workflows
-- API-based business process automation
-- AI-assisted multilingual digital production
-
----
-
-## 🤝 Open to Opportunities
-
-I'm interested in remote opportunities and collaborations involving:
-
-**AI Automation • n8n • AI Agents • Workflow Automation • AI Operations • CRM Automation • Business Process Automation • AI Evaluation**
-
-📁 [View My AI Automation Portfolio](https://github.com/okikisteve/ai-automation-portfolio)
-
----
-
-### Let's Build Smarter Systems
-
-
-I enjoy solving practical business problems with AI and automation — turning repetitive processes into systems that work faster, more consistently and at scale.
+*Updated 28 October 2026.*
