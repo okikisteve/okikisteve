@@ -9,6 +9,7 @@ I build and document business automation workflows that help organizations captu
 
 | Project | What it does | Current evidence |
 | --- | --- | --- |
+| **[Enterprise IT Operations — 12-Module Simulation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/enterprise-it-operations-simulation.md)** | Mock incident → cross-functional operational decisions → structured executive report | **12 modules simulated**; not connected to client systems |
 | **[Real Estate Lead Intake & Inspection Automation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/real-estate-lead-inspection-automation.md)** | Five-service enquiry intake → validation/qualification → Google Sheets CRM; appointment-booking design | **Lead intake tested** with synthetic data; booking not live |
 | **[Salesforce Automated Lead Qualification — V2](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/salesforce-lead-qualification.md)** | Record-triggered Flow classifies leads by estimated project budget | Activated in Developer Edition; three sample budget categories verified |
 | **[Iyere Projects — Lead & CRM Automation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/iyere-projects.md)** | Capture customer enquiries and coordinate follow-up | Workflow documentation and selected integration tests |
@@ -48,4 +49,4 @@ I'm interested in **n8n automation, AI operations, CRM automation, workflow deve
 - **LinkedIn:** [Steven Iyere](https://www.linkedin.com/in/emmanuel-okikie-i-8523743b6)
 - **Portfolio:** [AI Automation & Workflow Case Studies](https://github.com/okikisteve/ai-automation-portfolio)
 
-*Updated 28 October 2026.*
+*Updated 8 November 2026.*
