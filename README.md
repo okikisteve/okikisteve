@@ -10,6 +10,7 @@ I build and document business automation workflows that help organizations captu
 | Project | What it does | Current evidence |
 | --- | --- | --- |
 | **[Enterprise IT Operations — 12-Module Simulation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/enterprise-it-operations-simulation.md)** | Mock incident → cross-functional operational decisions → structured executive report | **12 modules simulated**; not connected to client systems |
+| **[Executive Operations Dashboard — Reporting Prototype](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/executive-operations-dashboard.md)** | n8n test evidence → Google Sheets reporting model → Looker Studio executive visibility | **Dashboard design / demo reporting**, not production-connected |
 | **[Real Estate Lead Intake & Inspection Automation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/real-estate-lead-inspection-automation.md)** | Five-service enquiry intake → validation/qualification → Google Sheets CRM; appointment-booking design | **Lead intake tested** with synthetic data; booking not live |
 | **[Salesforce Automated Lead Qualification — V2](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/salesforce-lead-qualification.md)** | Record-triggered Flow classifies leads by estimated project budget | Activated in Developer Edition; three sample budget categories verified |
 | **[Iyere Projects — Lead & CRM Automation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/iyere-projects.md)** | Capture customer enquiries and coordinate follow-up | Workflow documentation and selected integration tests |
@@ -36,6 +37,10 @@ Alongside technical automation, I develop **YouTube and short-form scripts, chil
 
 - **Oxford–UNESCO AI in the Public Sector:** orientation and Modules 1–5 learning activities and quizzes completed (2026). This is a coursework statement, **not a claim of an awarded certificate**.
 - **Cloud concepts (ExamPro):** self-directed learning covering SaaS, PaaS, APIs and IoT.
+
+## 📊 Current focus: auditable AI operations
+
+I'm extending my workflow portfolio from individual automations toward **end-to-end operational visibility**: consistent run identifiers, structured module-level outcomes, executive dashboards, clear handoff points and evidence-based deployment readiness. The [dashboard reporting prototype](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/executive-operations-dashboard.md) explains the proposed Google Sheets → Looker Studio reporting layer for the 12-module enterprise simulation. The demonstration uses fictional data; no live customer integration is claimed.
 
 ## 🛠 Technical toolkit
 
