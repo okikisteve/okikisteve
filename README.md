@@ -23,6 +23,20 @@ I build and document business automation workflows that help organizations captu
 
 **[Download the sanitized n8n lead-intake demo](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/real-estate-lead-intake)** — includes an inactive authenticated webhook workflow, JavaScript validation and qualification logic, and **nine unit-test cases**. The JavaScript tests passed in an isolated test harness; this is **not** a claim of live n8n deployment.
 
+## ✍️ Creative writing & AI-assisted production
+
+Alongside technical automation, I develop **YouTube and short-form scripts, children's animation stories, brand copy, email campaigns, landing-page copy and social content**.
+
+- **[Creative Copywriting & Storytelling Portfolio — six original samples](https://github.com/okikisteve/ai-automation-portfolio/tree/main/creative-writing-portfolio)** — mystery storytelling, children's animation, brand positioning, B2B emails and platform-specific copy.
+- **[AI-Assisted Digital Production & Localization](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/ai-digital-production.md)** — voice assignment, dubbing synchronization, audio QA and localization troubleshooting.
+
+*Writing samples are original portfolio/spec work; the media case study does not represent an n8n deployment.*
+
+## 📚 Professional learning
+
+- **Oxford–UNESCO AI in the Public Sector:** orientation and Modules 1–5 learning activities and quizzes completed (2026). This is a coursework statement, **not a claim of an awarded certificate**.
+- **Cloud concepts (ExamPro):** self-directed learning covering SaaS, PaaS, APIs and IoT.
+
 ## 🛠 Technical toolkit
 
 - **Workflow automation:** n8n Cloud, trigger design, webhooks, conditional routing, form intake, JSON mapping
@@ -43,10 +57,10 @@ I build and document business automation workflows that help organizations captu
 
 ## 🤝 Let's connect
 
-I'm interested in **n8n automation, AI operations, CRM automation, workflow development, AI evaluation and technical operations** opportunities.
+I'm interested in **n8n automation, AI operations, CRM automation, workflow development, AI evaluation, scriptwriting, copywriting and AI-assisted digital production** opportunities.
 
 - **GitHub:** [@okikisteve](https://github.com/okikisteve)
 - **LinkedIn:** [Steven Iyere](https://www.linkedin.com/in/emmanuel-okikie-i-8523743b6)
 - **Portfolio:** [AI Automation & Workflow Case Studies](https://github.com/okikisteve/ai-automation-portfolio)
 
-*Updated 8 November 2026.*
+*Updated 12 November 2026.*
