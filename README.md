@@ -1,5 +1,5 @@
 # Hi, I'm Steven Iyere 👋
-### AI Automation & Workflow Specialist | n8n · Salesforce Flow · AI-Assisted Operations
+### AI Automation Engineer | n8n · Salesforce Flow · AI Operations · Creative Technology
 
 I build and document business automation workflows that help organizations capture enquiries, organize CRM data, prioritize leads and reduce repetitive work. My portfolio combines **n8n, webhooks, APIs, Google Workspace, Salesforce Flow, AI-agent experimentation and structured workflow testing**.
 
@@ -9,6 +9,7 @@ I build and document business automation workflows that help organizations captu
 
 | Project | What it does | Current evidence |
 | --- | --- | --- |
+| **[Actor Portfolio Website — Michael Udeoji](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/actor-portfolio-website.md)** | Responsive casting portfolio with photography, film credits, social contact and QR-based sharing | Local HTML/Netlify project reviewed; live deployment and QR destination require verification |
 | **[Enterprise IT Operations — 12-Module Simulation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/enterprise-it-operations-simulation.md)** | Mock incident → cross-functional operational decisions → structured executive report | **12 modules simulated**; not connected to client systems |
 | **[Executive Operations Dashboard — Reporting Prototype](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/executive-operations-dashboard.md)** | n8n test evidence → Google Sheets reporting model → Looker Studio executive visibility | **Dashboard design / demo reporting**, not production-connected |
 | **[Real Estate Lead Intake & Inspection Automation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/real-estate-lead-inspection-automation.md)** | Five-service enquiry intake → validation/qualification → Google Sheets CRM; appointment-booking design | **Lead intake tested** with synthetic data; booking not live |
@@ -33,10 +34,15 @@ Alongside technical automation, I develop **YouTube and short-form scripts, chil
 
 *Writing samples are original portfolio/spec work; the media case study does not represent an n8n deployment.*
 
-## 📚 Professional learning
+## 📚 Certificates & professional learning
 
 - **Oxford–UNESCO AI in the Public Sector:** orientation and Modules 1–5 learning activities and quizzes completed (2026). This is a coursework statement, **not a claim of an awarded certificate**.
-- **Cloud concepts (ExamPro):** self-directed learning covering SaaS, PaaS, APIs and IoT.
+- **IBM short course:** completion certificate reported; exact course title and credential URL to be verified before publishing.
+- **Cloud concepts (ExamPro): self-directed learning covering SaaS, PaaS, APIs and IoT.
+
+## 🎬 Web portfolios & creative technology
+
+I also develop digital presentation assets for actors and creatives. My [Michael Udeoji portfolio case study](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/actor-portfolio-website.md) documents an HTML portfolio package, photographic gallery, film credits, Instagram contact, and QR-sharing workflow. A public website URL is intentionally not asserted until verified.
 
 ## 📊 Current focus: auditable AI operations
 
@@ -68,4 +74,4 @@ I'm interested in **n8n automation, AI operations, CRM automation, workflow deve
 - **LinkedIn:** [Steven Iyere](https://www.linkedin.com/in/emmanuel-okikie-i-8523743b6)
 - **Portfolio:** [AI Automation & Workflow Case Studies](https://github.com/okikisteve/ai-automation-portfolio)
 
-*Updated 12 November 2026.*
+*Updated 13 November 2026.*
