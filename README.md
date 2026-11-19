@@ -9,6 +9,7 @@ I build and document business automation workflows that help organizations captu
 
 | Project | What it does | Current evidence |
 | --- | --- | --- |
+| **[Kachi & Reuben — Menswear Commerce Platform](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/kachi-reuben-commerce-platform.md)** | Responsive menswear storefront preview, owner product studio, serverless order handling, payment verification logic and n8n event-outbox design | Private source project; preview only, **no confirmed inventory, live payments or production deployment** |
 | **[Actor Portfolio Website — Michael Udeoji](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/actor-portfolio-website.md)** | Responsive casting portfolio with photography, film credits, social contact and QR-based sharing | Local HTML/Netlify project reviewed; live deployment and QR destination require verification |
 | **[Enterprise IT Operations — 12-Module Simulation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/enterprise-it-operations-simulation.md)** | Mock incident → cross-functional operational decisions → structured executive report | **12 modules simulated**; not connected to client systems |
 | **[Executive Operations Dashboard — Reporting Prototype](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/executive-operations-dashboard.md)** | n8n test evidence → Google Sheets reporting model → Looker Studio executive visibility | **Dashboard design / demo reporting**, not production-connected |
@@ -52,7 +53,8 @@ I'm extending my workflow portfolio from individual automations toward **end-to-
 
 - **Workflow automation:** n8n Cloud, trigger design, webhooks, conditional routing, form intake, JSON mapping
 - **CRM and business systems:** Salesforce Flow Builder, Google Sheets, Gmail, Google Calendar
-- **AI and content:** AI-agent workflows, prompting, human quality assurance, AI-assisted multimedia and localization
+- **AI and content:** AI-agent workflows, prompting, human quality assurance, Adobe Photoshop, AI-assisted design, multimedia and localization
+- **Web and commerce prototyping:** HTML/CSS/JavaScript, Netlify Functions, server-side order processing, Paystack integration design
 - **Engineering practices:** process mapping, validation, end-to-end test cases, debugging, technical documentation
 - **Building next:** stronger monitoring, retry policies, idempotency, secure integration patterns and Python fundamentals
 
@@ -74,4 +76,4 @@ I'm interested in **n8n automation, AI operations, CRM automation, workflow deve
 - **LinkedIn:** [Steven Iyere](https://www.linkedin.com/in/emmanuel-okikie-i-8523743b6)
 - **Portfolio:** [AI Automation & Workflow Case Studies](https://github.com/okikisteve/ai-automation-portfolio)
 
-*Updated 13 November 2026.*
+*Updated 19 November 2026.*
