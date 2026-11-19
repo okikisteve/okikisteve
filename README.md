@@ -1,6 +1,8 @@
 # Hi, I'm Steven Iyere 👋
 ### AI Automation Engineer | n8n · Salesforce Flow · AI Operations · Creative Technology
 
+[![Automation portfolio tests](https://github.com/okikisteve/ai-automation-portfolio/actions/workflows/portfolio-tests.yml/badge.svg)](https://github.com/okikisteve/ai-automation-portfolio/actions/workflows/portfolio-tests.yml)
+
 I build and document business automation workflows that help organizations capture enquiries, organize CRM data, prioritize leads and reduce repetitive work. My portfolio combines **n8n, webhooks, APIs, Google Workspace, Salesforce Flow, AI-agent experimentation and structured workflow testing**.
 
 📍 Nigeria · 🌍 Open to remote, contract and project-based opportunities
