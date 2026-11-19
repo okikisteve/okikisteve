@@ -9,6 +9,8 @@ I build and document business automation workflows that help organizations captu
 
 | Project | What it does | Current evidence |
 | --- | --- | --- |
+| **[AI-Agent Booking Policy Gate](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/agent-action-gate)** | Validates proposed agent booking actions against synthetic consent, hours, listing and availability checks; returns human-approval recommendation | Pure JavaScript, 14 unit tests and inactive authenticated n8n workflow; **not connected to an LLM or calendar** |
+| **[Incident Triage & Routing Demo](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/incident-triage)** | Classifies simulated incidents by severity, impact and criticality without exposing alert summary | Pure JavaScript, 13 unit tests and inactive authenticated n8n workflow; **no external tickets/pages** |
 | **[Kachi & Reuben — Menswear Commerce Platform](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/kachi-reuben-commerce-platform.md)** | Responsive menswear storefront preview, owner product studio, serverless order handling, payment verification logic and n8n event-outbox design | Private source project; preview only, **no confirmed inventory, live payments or production deployment** |
 | **[Actor Portfolio Website — Michael Udeoji](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/actor-portfolio-website.md)** | Responsive casting portfolio with photography, film credits, social contact and QR-based sharing | Local HTML/Netlify project reviewed; live deployment and QR destination require verification |
 | **[Enterprise IT Operations — 12-Module Simulation](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/enterprise-it-operations-simulation.md)** | Mock incident → cross-functional operational decisions → structured executive report | **12 modules simulated**; not connected to client systems |
@@ -22,7 +24,11 @@ I build and document business automation workflows that help organizations captu
 
 **📁 [Explore my complete automation portfolio](https://github.com/okikisteve/ai-automation-portfolio)**
 
-### 🔎 Reproducible Technical Example
+### 🔎 Reproducible Technical Examples
+
+- **[AI-agent action gate](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/agent-action-gate)** — 14 Node.js tests + inactive n8n workflow demonstrating proposed tool-action validation and mandatory human approval.
+- **[IT incident triage](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/incident-triage)** — 13 Node.js tests + inactive n8n workflow demonstrating deterministic alert routing.
+- **[GitHub Actions test workflow](https://github.com/okikisteve/ai-automation-portfolio/blob/main/.github/workflows/portfolio-tests.yml)** — configured to run JavaScript unit tests.
 
 **[Download the sanitized n8n lead-intake demo](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/real-estate-lead-intake)** — includes an inactive authenticated webhook workflow, JavaScript validation and qualification logic, and **nine unit-test cases**. The JavaScript tests passed in an isolated test harness; this is **not** a claim of live n8n deployment.
 
@@ -76,4 +82,4 @@ I'm interested in **n8n automation, AI operations, CRM automation, workflow deve
 - **LinkedIn:** [Steven Iyere](https://www.linkedin.com/in/emmanuel-okikie-i-8523743b6)
 - **Portfolio:** [AI Automation & Workflow Case Studies](https://github.com/okikisteve/ai-automation-portfolio)
 
-*Updated 19 November 2026.*
+*Updated 19 November 2026 — added two reproducible technical demonstrations.*
