@@ -3,14 +3,18 @@
 
 [![Automation portfolio tests](https://github.com/okikisteve/ai-automation-portfolio/actions/workflows/portfolio-tests.yml/badge.svg)](https://github.com/okikisteve/ai-automation-portfolio/actions/workflows/portfolio-tests.yml)
 
-I build and document business automation workflows that help organizations capture enquiries, organize CRM data, prioritize leads and reduce repetitive work. My portfolio combines **n8n, webhooks, APIs, Google Workspace, Salesforce Flow, AI-agent experimentation and structured workflow testing**.
+I build **AI-assisted workflow automation and practical business systems** using n8n, JavaScript, Salesforce Flow, Google Workspace and serverless integrations. My work connects process mapping, CRM design, responsible AI-agent operations, structured testing and creative digital production.
 
-📍 Nigeria · 🌍 Open to remote, contract and project-based opportunities
+📍 Lagos, Nigeria · 🌍 Open to global remote, contract and project-based opportunities
+
+**[55 JavaScript tests verified in GitHub Actions](https://github.com/okikisteve/ai-automation-portfolio/actions/runs/44909128270)** · [Runnable n8n workflow examples](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples) · [Creative storytelling samples](https://github.com/okikisteve/ai-automation-portfolio/tree/main/creative-writing-portfolio)
 
 ## 🚀 Selected projects
 
 | Project | What it does | Current evidence |
 | --- | --- | --- |
+| **[Webhook Reliability & Delivery Policy](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/reliable-webhook-delivery)** | Simulates retry/backoff decisions, duplicate suppression and manual conflict escalation for webhook events | Pure JavaScript, 19 tests and inactive n8n example; **no real network delivery or persistent idempotency** |
+| **[Investment Operations — Automation Discovery](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/investment-services-automation-discovery.md)** | Maps potential CRM, follow-up and AI governance opportunities for an investment-services workflow | Anonymized assessment and proposal only; **not a client implementation** |
 | **[AI-Agent Booking Policy Gate](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/agent-action-gate)** | Validates proposed agent booking actions against synthetic consent, hours, listing and availability checks; returns human-approval recommendation | Pure JavaScript, 14 unit tests and inactive authenticated n8n workflow; **not connected to an LLM or calendar** |
 | **[Incident Triage & Routing Demo](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/incident-triage)** | Classifies simulated incidents by severity, impact and criticality without exposing alert summary | Pure JavaScript, 13 unit tests and inactive authenticated n8n workflow; **no external tickets/pages** |
 | **[Kachi & Reuben — Menswear Commerce Platform](https://github.com/okikisteve/ai-automation-portfolio/blob/main/projects/kachi-reuben-commerce-platform.md)** | Responsive menswear storefront preview, owner product studio, serverless order handling, payment verification logic and n8n event-outbox design | Private source project; preview only, **no confirmed inventory, live payments or production deployment** |
@@ -28,9 +32,10 @@ I build and document business automation workflows that help organizations captu
 
 ### 🔎 Reproducible Technical Examples
 
+- **[Webhook reliability policy](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/reliable-webhook-delivery)** — 19 Node.js tests + an inactive n8n workflow for simulated retry, conflict and duplicate-delivery decisions.
 - **[AI-agent action gate](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/agent-action-gate)** — 14 Node.js tests + inactive n8n workflow demonstrating proposed tool-action validation and mandatory human approval.
 - **[IT incident triage](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/incident-triage)** — 13 Node.js tests + inactive n8n workflow demonstrating deterministic alert routing.
-- **[GitHub Actions test workflow](https://github.com/okikisteve/ai-automation-portfolio/blob/main/.github/workflows/portfolio-tests.yml)** — configured to run JavaScript unit tests.
+- **[GitHub Actions test workflow](https://github.com/okikisteve/ai-automation-portfolio/blob/main/.github/workflows/portfolio-tests.yml)** — **55 automated tests passed** in the [21 November 2026 CI run](https://github.com/okikisteve/ai-automation-portfolio/actions/runs/44909128270). Tests cover local decision logic, not production integrations.
 
 **[Download the sanitized n8n lead-intake demo](https://github.com/okikisteve/ai-automation-portfolio/tree/main/examples/real-estate-lead-intake)** — includes an inactive authenticated webhook workflow, JavaScript validation and qualification logic, and **nine unit-test cases**. The JavaScript tests passed in an isolated test harness; this is **not** a claim of live n8n deployment.
 
@@ -47,7 +52,7 @@ Alongside technical automation, I develop **YouTube and short-form scripts, chil
 
 - **Oxford–UNESCO AI in the Public Sector:** orientation and Modules 1–5 learning activities and quizzes completed (2026). This is a coursework statement, **not a claim of an awarded certificate**.
 - **IBM short course:** completion certificate reported; exact course title and credential URL to be verified before publishing.
-- **Cloud concepts (ExamPro): self-directed learning covering SaaS, PaaS, APIs and IoT.
+- **Cloud concepts (ExamPro):** self-directed learning covering SaaS, PaaS, APIs and IoT.
 
 ## 🎬 Web portfolios & creative technology
 
@@ -63,7 +68,7 @@ I'm extending my workflow portfolio from individual automations toward **end-to-
 - **CRM and business systems:** Salesforce Flow Builder, Google Sheets, Gmail, Google Calendar
 - **AI and content:** AI-agent workflows, prompting, human quality assurance, Adobe Photoshop, AI-assisted design, multimedia and localization
 - **Web and commerce prototyping:** HTML/CSS/JavaScript, Netlify Functions, server-side order processing, Paystack integration design
-- **Engineering practices:** process mapping, validation, end-to-end test cases, debugging, technical documentation
+- **Engineering practices:** process mapping, validation, unit testing (Node.js), GitHub Actions CI, webhook retry/reconciliation policy design, debugging, technical documentation
 - **Building next:** stronger monitoring, retry policies, idempotency, secure integration patterns and Python fundamentals
 
 ## 🔁 How I approach an automation project
@@ -84,4 +89,4 @@ I'm interested in **n8n automation, AI operations, CRM automation, workflow deve
 - **LinkedIn:** [Steven Iyere](https://www.linkedin.com/in/emmanuel-okikie-i-8523743b6)
 - **Portfolio:** [AI Automation & Workflow Case Studies](https://github.com/okikisteve/ai-automation-portfolio)
 
-*Updated 19 November 2026 — added two reproducible technical demonstrations.*
+*Updated 21 November 2026 — four reproducible examples, verified 55-test CI and anonymized automation-discovery work.*
